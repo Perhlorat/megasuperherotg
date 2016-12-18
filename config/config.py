@@ -1,0 +1,8 @@
+SETTINGS = {
+    'DB': {
+
+    },
+    'TWITTER': {
+
+    },
+}
